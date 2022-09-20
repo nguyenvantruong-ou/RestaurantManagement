@@ -14,7 +14,8 @@ Chức năng:
           + Quản lý người dùng
           + Quản lý sảng
           + Quản lý món ăn
-          + Thống kê báo cáo
+          + Quản lý thông báo
+          + Thống kê báo cáo (tháng, quý, năm)
      + User: 
           + Đăng ký
           + Đăng nhập

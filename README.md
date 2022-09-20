@@ -1,5 +1,5 @@
 # RestaurantManagement
-Website quản lý nhà hàng tiệc cưới, sử dụng Java Spring MVC, Hibernate, MySQL
+Website quản lý nhà hàng tiệc cưới
 
 - Mô hình: MVC 
 - Ngôn ngữ:  Java, Javascript (Jquery), HTML, CSS, XML
